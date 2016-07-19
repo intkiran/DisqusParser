@@ -59,10 +59,19 @@
     <None Include="App.config" />
     <None Include="tryout.fsx" />
     <Content Include="packages.config" />
+    <Content Include="kijanawoodard-2015-03-19T23_28_52.887832-all.xml" />
   </ItemGroup>
   <ItemGroup>
+    <Reference Include="FSharp.Configuration">
+      <HintPath>packages\FSharp.Configuration.0.6.1\lib\net40\FSharp.Configuration.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="FSharp.Data">
       <HintPath>packages\FSharp.Data.2.1.1\lib\net40\FSharp.Data.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="FsYaml">
+      <HintPath>packages\FsYaml.2.1.0\lib\net45\FsYaml.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="mscorlib" />
@@ -73,6 +82,10 @@
     <Reference Include="System.Core" />
     <Reference Include="System.Numerics" />
     <Reference Include="System.Xml.Linq" />
+    <Reference Include="YamlDotNet">
+      <HintPath>packages\YamlDotNet.3.8.0\lib\net35\YamlDotNet.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
   </ItemGroup>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

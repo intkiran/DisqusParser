@@ -1,0 +1,2739 @@
+<?xml version="1.0" encoding="utf-8"?>
+<disqus xmlns="http://disqus.com" xmlns:dsq="http://disqus.com/disqus-internals" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://disqus.com/api/schemas/1.0/disqus.xsd http://disqus.com/api/schemas/1.0/disqus-internals.xsd">
+	<category dsq:id="2097062">
+		<forum>kijanawoodard</forum>
+		<title>General</title>
+		<isDefault>true</isDefault>
+	</category>
+	<thread dsq:id="963621336">
+		<id />
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/avoiding-fizzbuzz</link>
+		<title>Avoiding FizzBuzz</title>
+		<message />
+		<createdAt>2010-05-09T11:05:31Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="963621348">
+		<id />
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/fizzbuzz-plus-plus</link>
+		<title>FizzBuzz++</title>
+		<message />
+		<createdAt>2010-05-10T00:53:14Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="963621339">
+		<id />
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/why-enums-suck</link>
+		<title>Why Enums Suck</title>
+		<message />
+		<createdAt>2010-05-10T21:56:38Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="963621354">
+		<id />
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/thoughts-on-script-sharp</link>
+		<title>Thoughts on Script#</title>
+		<message />
+		<createdAt>2010-05-13T08:19:49Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="963621359">
+		<id />
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/avoiding-negative-branching-tests</link>
+		<title>Avoiding Negative Branching Tests</title>
+		<message />
+		<createdAt>2010-05-17T21:55:29Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="963621362">
+		<id />
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/nullor-extension-method</link>
+		<title>NullOr Extension Method</title>
+		<message />
+		<createdAt>2010-05-20T00:04:07Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="963621364">
+		<id />
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/selling-value-for-money</link>
+		<title>Selling Value for Money</title>
+		<message />
+		<createdAt>2010-05-21T00:13:35Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="963621365">
+		<id />
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/c-partition-list-into-list-of-lists</link>
+		<title>C# Partition List into List of Lists</title>
+		<message />
+		<createdAt>2010-10-16T20:59:53Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="963621372">
+		<id />
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/fubumvc-validation-and-re-hydrating-the-view</link>
+		<title>FubuMVC, Validation, and Re-Hydrating the View</title>
+		<message />
+		<createdAt>2012-02-13T09:51:30Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="963621374">
+		<id />
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/seeking-density-in-architectural-abstractions</link>
+		<title>Seeking Density in Architectural Abstractions</title>
+		<message />
+		<createdAt>2012-02-15T05:07:06Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>127.0.0.1</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="963541145">
+		<id>seeking-density-in-architectural-abstractions</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://localhost:11331/seeking-density-in-architectural-abstractions</link>
+		<title>Seeking Density in Architectural Abstractions | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-07T23:19:50Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="963590261">
+		<id>fubumvc-validation-and-re-hydrating-the-view</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://localhost:11331/fubumvc-validation-and-re-hydrating-the-view</link>
+		<title>FubuMVC, Validation, and Re-Hydrating the View | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-08T00:10:55Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="963596776">
+		<id />
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://localhost:11331/building-a-blog-engine</link>
+		<title>Building My Own Blog | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-08T00:17:00Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="963596815">
+		<id>javascript-utc-datetime</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://localhost:11331/javascript-utc-datetime</link>
+		<title>Javascript UTC Datetime | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-08T00:17:02Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="963596839">
+		<id>just-use-string-id-for-ravendb</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://localhost:11331/just-use-string-id-for-ravendb</link>
+		<title>Just use string Id for RavenDB | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-08T00:17:03Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="963629384">
+		<id>c-partition-list-into-list-of-lists</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://localhost:11331/c-partition-list-into-list-of-lists</link>
+		<title>C# Partition List into List of Lists | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-08T00:47:23Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="963633007">
+		<id>selling-value-for-money</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://localhost:11331/selling-value-for-money</link>
+		<title>Selling Value for Money | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-08T00:51:52Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="963636780">
+		<id>nullor-extension-method</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://localhost:11331/nullor-extension-method</link>
+		<title>NullOr Extension Method | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-08T00:55:56Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="963645855">
+		<id>null-check-with-extension-methods</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://localhost:11331/null-check-with-extension-methods</link>
+		<title>Null Check with Extension Methods | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-08T01:05:10Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="963652264">
+		<id>avoiding-negative-branching-tests</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://localhost:11331/avoiding-negative-branching-tests</link>
+		<title>Avoiding Negative Branching Tests | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-08T01:11:42Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="963655784">
+		<id>cool-feature-of-extension-methods</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://localhost:11331/cool-feature-of-extension-methods</link>
+		<title>Cool Feature of Extension Methods | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-08T01:15:13Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="963658229">
+		<id>visual-studio-code-snippets</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://localhost:11331/visual-studio-code-snippets</link>
+		<title>Visual Studio Code Snippets | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-08T01:17:33Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="963666595">
+		<id>quickly-creating-using-namespace-directives</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://localhost:11331/quickly-creating-using-namespace-directives</link>
+		<title>Quickly Creating Using Namespace Directives | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-08T01:25:09Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="963676925">
+		<id>thoughts-on-script-sharp</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://localhost:11331/thoughts-on-script-sharp</link>
+		<title>Thoughts on Script# | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-08T01:34:41Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="963806592">
+		<id>in-defense-of-blub</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://localhost:11331/in-defense-of-blub</link>
+		<title>In Defense of Blub | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-08T03:39:21Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="964851406">
+		<id>why-enums-suck</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://localhost:11331/why-enums-suck</link>
+		<title>Why Enums Suck | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-08T21:20:31Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="964882651">
+		<id>fizzbuzz-plus-plus</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://localhost:11331/fizzbuzz-plus-plus</link>
+		<title>FizzBuzz++ | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-08T21:51:38Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="964891254">
+		<id>ienumerable-each</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://localhost:11331/ienumerable-each</link>
+		<title>ienumerable-each | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-08T22:00:26Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="964893859">
+		<id>avoiding-fizzbuzz</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://localhost:11331/avoiding-fizzbuzz</link>
+		<title>Avoiding FizzBuzz | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-08T22:03:05Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="964899546">
+		<id>gmails-spam-criteria-is-stringent</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://localhost:11331/gmails-spam-criteria-is-stringent</link>
+		<title>Gmail’s Spam Criteria is Stringent | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-08T22:08:59Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="964910779">
+		<id>tekpub-rocks</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://localhost:11331/tekpub-rocks</link>
+		<title>TekPub Rocks! | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-08T22:20:40Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="967561517">
+		<id />
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/</link>
+		<title>Building My Own Blog | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-10T17:37:32Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>89.79.158.68</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="967579617">
+		<id />
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/null-check-with-extension-methods</link>
+		<title>Null Check with Extension Methods | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-10T17:51:01Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="967579769">
+		<id />
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/cool-feature-of-extension-methods</link>
+		<title>Cool Feature of Extension Methods | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-10T17:51:07Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="967579822">
+		<id />
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/visual-studio-code-snippets</link>
+		<title>Visual Studio Code Snippets | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-10T17:51:10Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="967579856">
+		<id />
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/quickly-creating-using-namespace-directives</link>
+		<title>Quickly Creating Using Namespace Directives | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-10T17:51:12Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="967579948">
+		<id />
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/in-defense-of-blub</link>
+		<title>In Defense of Blub | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-10T17:51:16Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="967580606">
+		<id />
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/ienumerable-each</link>
+		<title>IEnumerable Each() | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-10T17:51:45Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="967580757">
+		<id />
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/gmails-spam-criteria-is-stringent</link>
+		<title>Gmail’s Spam Criteria is Stringent | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-10T17:51:51Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="967580805">
+		<id />
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/tekpub-rocks</link>
+		<title>TekPub Rocks! | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-10T17:51:53Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="967580900">
+		<id>building-a-blog-engine</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/building-a-blog-engine</link>
+		<title>Building My Own Blog | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-10T17:51:58Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="968585775">
+		<id />
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/just-use-string-id-for-ravendb</link>
+		<title>Just use string Id for RavenDB | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-11T08:46:48Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>194.106.126.76</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="970170078">
+		<id />
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/javascript-utc-datetime</link>
+		<title>Javascript UTC Datetime | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-12T06:10:54Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>62.254.225.135</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="975497407">
+		<id />
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://localhost:11331/</link>
+		<title>Building My Own Blog | kijana woodard</title>
+		<message />
+		<createdAt>2012-12-15T07:08:46Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>92.237.137.189</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="1812042448">
+		<id>learning-nservicebus-review</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/learning-nservicebus-review</link>
+		<title>Learning NServiceBus Review | kijana woodard</title>
+		<message />
+		<createdAt>2013-09-30T19:12:46Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="1837085193">
+		<id>questioning-ioc-containers</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/questioning-ioc-containers</link>
+		<title>Questioning IOC Containers | kijana woodard</title>
+		<message />
+		<createdAt>2013-10-08T18:25:29Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="1837612645">
+		<id>dotnet-demon</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/dotnet-demon</link>
+		<title>.Net Demon: TheLittle Things | kijana woodard</title>
+		<message />
+		<createdAt>2013-10-08T22:15:48Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="1840184970">
+		<id>violating-isp</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/violating-isp</link>
+		<title>Violating Isp | kijana woodard</title>
+		<message />
+		<createdAt>2013-10-09T17:16:26Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="1840559527">
+		<id>violating-isp-with-constructor-injection</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/violating-isp-with-constructor-injection</link>
+		<title>Violating ISP with Constructor Injection | kijana woodard</title>
+		<message />
+		<createdAt>2013-10-09T19:36:41Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="1840678277">
+		<id>violating-srp-with-constructor-injection</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/violating-srp-with-constructor-injection</link>
+		<title>Violating SRP with Constructor Injection | kijana woodard</title>
+		<message />
+		<createdAt>2013-10-09T20:24:00Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="1847055631">
+		<id>how-to-wake-up-your-kids</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/how-to-wake-up-your-kids</link>
+		<title>How to Wake up Your Kids | kijana woodard</title>
+		<message />
+		<createdAt>2013-10-11T18:32:43Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="1857466873">
+		<id>implementing-interfaces</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/implementing-interfaces</link>
+		<title>Implementing Interfaces | kijana woodard</title>
+		<message />
+		<createdAt>2013-10-14T22:31:31Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="1857485820">
+		<id>foo-ifoo-is-an-antipattern.markdown</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/foo-ifoo-is-an-antipattern.markdown</link>
+		<title>Implementing Interfaces | kijana woodard</title>
+		<message />
+		<createdAt>2013-10-14T22:39:06Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="1857486005">
+		<id>foo-ifoo-is-an-antipattern</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/foo-ifoo-is-an-antipattern</link>
+		<title>Implementing Interfaces | kijana woodard</title>
+		<message />
+		<createdAt>2013-10-14T22:39:10Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="1857489162">
+		<id>foo-ifoo-is-an-anti-pattern</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/foo-ifoo-is-an-anti-pattern</link>
+		<title>class Foo: IFoo is an Anti-Pattern | kijana woodard</title>
+		<message />
+		<createdAt>2013-10-14T22:40:24Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="1861307181">
+		<id>interface-inversion</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/interface-inversion</link>
+		<title>Interface Inversion | kijana woodard</title>
+		<message />
+		<createdAt>2013-10-15T21:16:32Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="1864259773">
+		<id>Constructor Injection is Partial-aApplication</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/Constructor%20Injection%20is%20Partial-aApplication</link>
+		<title>Constructor Injection is Partial Application | kijana woodard</title>
+		<message />
+		<createdAt>2013-10-16T15:43:44Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="1864260655">
+		<id>constructor-injection-is-partial-application</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/constructor-injection-is-partial-application</link>
+		<title>Constructor Injection is Partial Application | kijana woodard</title>
+		<message />
+		<createdAt>2013-10-16T15:44:09Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="1864289035">
+		<id>Hello</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/Hello</link>
+		<title>Hello | kijana woodard</title>
+		<message />
+		<createdAt>2013-10-16T15:58:46Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="1864550884">
+		<id>creating-a-resharper-macro</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/creating-a-resharper-macro</link>
+		<title>Creating a ReSharper Macro | kijana woodard</title>
+		<message />
+		<createdAt>2013-10-16T17:26:15Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="1865367537">
+		<id>bio</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/bio</link>
+		<title>Bio | kijana woodard</title>
+		<message />
+		<createdAt>2013-10-16T21:53:57Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="1895235189">
+		<id>introducing-nimbus</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/introducing-nimbus</link>
+		<title>Introducing Nimbus | kijana woodard</title>
+		<message />
+		<createdAt>2013-10-24T14:32:00Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="1896009937">
+		<id>contact</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/contact</link>
+		<title>Contact | kijana woodard</title>
+		<message />
+		<createdAt>2013-10-24T18:21:56Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="1896904284">
+		<id>introducing-liaison</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/introducing-liaison</link>
+		<title>Introducing Liaison | kijana woodard</title>
+		<message />
+		<createdAt>2013-10-24T23:10:54Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="1920268063">
+		<id>introducing-vessel</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/introducing-vessel</link>
+		<title>Introducing Vessel | kijana woodard</title>
+		<message />
+		<createdAt>2013-10-30T21:31:34Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="1927684839">
+		<id>title</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/title</link>
+		<title>title | kijana woodard</title>
+		<message />
+		<createdAt>2013-11-01T19:26:36Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="1927685291">
+		<id>vessel-modules</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/vessel-modules</link>
+		<title>Vessel Modules | kijana woodard</title>
+		<message />
+		<createdAt>2013-11-01T19:26:46Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="1938798906">
+		<id>a-tale-of-scope-creep</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/a-tale-of-scope-creep</link>
+		<title>A Tale of Scope Creep | kijana woodard</title>
+		<message />
+		<createdAt>2013-11-05T15:59:08Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="1946018935">
+		<id>asp-net-mvc-content-negotiation</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/asp-net-mvc-content-negotiation</link>
+		<title>Asp.net MVC Content Negotiation | kijana woodard</title>
+		<message />
+		<createdAt>2013-11-07T22:21:49Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="2031632596">
+		<id>slug</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/slug</link>
+		<title>title | kijana woodard</title>
+		<message />
+		<createdAt>2013-12-07T02:55:04Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="2031634317">
+		<id>a</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/a</link>
+		<title>Abstracting RavenDB | kijana woodard</title>
+		<message />
+		<createdAt>2013-12-07T02:56:06Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="2031634506">
+		<id>abstracting </id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/abstracting</link>
+		<title>Abstracting RavenDB | kijana woodard</title>
+		<message />
+		<createdAt>2013-12-07T02:56:14Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="2031634802">
+		<id>abstracting-ravendb</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/abstracting-ravendb</link>
+		<title>Abstracting RavenDB | kijana woodard</title>
+		<message />
+		<createdAt>2013-12-07T02:56:23Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="2031673895">
+		<id>soa-ui-composition</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/soa-ui-composition</link>
+		<title>SOA UI Composition | kijana woodard</title>
+		<message />
+		<createdAt>2013-12-07T03:20:18Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<thread dsq:id="2036142232">
+		<id>soa-ui-composition-in-csharp</id>
+		<forum>kijanawoodard</forum>
+		<category dsq:id="2097062" />
+		<link>http://kijanawoodard.com/soa-ui-composition-in-csharp</link>
+		<title>SOA UI Composition | kijana woodard</title>
+		<message />
+		<createdAt>2013-12-08T20:47:29Z</createdAt>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<isClosed>false</isClosed>
+		<isDeleted>false</isDeleted>
+	</thread>
+	<post dsq:id="730621944">
+		<id>wp_id=11</id>
+		<message><![CDATA[<p>I got this comment via email from Matt T:</p><p>"I like it. You could do the whole thing in linq by returning the result of the console.write, passing your compound ternary, in the linq select. No need to capture the result either."</p><p>I thought about making the example more "cunning", but I also like to have mercy on the maintenance dev (fictional though they may be in this case). I think a lot of devs will be troubled by the LINQ + ternary combo so I didn't want to drop in the console.write as a side effect. In general, I try to take single responsibility down to the statement level. If the statement is doing more than one thing, I have to have a good reason not to break it up. In this case, I felt the ternary stuff was simple enough to grok inside the LINQ statement, but that adding more logic was going to lose people.</p>]]></message>
+		<createdAt>2010-05-10T00:13:41Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>kijanawoodard@wyldeye.com</email>
+			<name>kijana</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>70.234.202.124</ipAddress>
+		<thread dsq:id="963621336" />
+	</post>
+	<post dsq:id="730621950">
+		<id>wp_id=13</id>
+		<message><![CDATA[<p>My biggest pet peeve is people who post code do not include the using/imports required to cut/paste/run the snippet!  I'm lazy!</p>]]></message>
+		<createdAt>2010-05-10T02:56:38Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>larry@mcnutt-consulting.com</email>
+			<name>Larry</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>99.13.123.90</ipAddress>
+		<thread dsq:id="963621348" />
+	</post>
+	<post dsq:id="730621952">
+		<id>wp_id=14</id>
+		<message><![CDATA[<p>Haha. I didn't post them because I didn't write them. Wrote it all in one file. I'm lazier!</p><p>Paste into static Main of your choice.</p>]]></message>
+		<createdAt>2010-05-10T03:14:03Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>kijanawoodard@wyldeye.com</email>
+			<name>kijana</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>70.234.202.124</ipAddress>
+		<thread dsq:id="963621348" />
+		<parent dsq:id="730621950" />
+	</post>
+	<post dsq:id="730621953">
+		<id>wp_id=15</id>
+		<message><![CDATA[<p>I use <a href="http://www.linqpad.net/" rel="nofollow">linqpad</a><a> for these kinds of things.  It's pretty handy for pasting a code snippet and hitting "run".</a></p>]]></message>
+		<createdAt>2010-05-10T03:21:57Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>luv2code+kijanassite@gmail.com</email>
+			<name>Matt T</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>67.198.74.81</ipAddress>
+		<thread dsq:id="963621348" />
+	</post>
+	<post dsq:id="730621946">
+		<id>wp_id=16</id>
+		<message><![CDATA[<p>The strategy pattern was exactly what I was thinking. And I totally agree with you on that point, I learned something. Thanks.</p>]]></message>
+		<createdAt>2010-05-11T07:41:08Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>joey@joeyguerra.com</email>
+			<name>Joey Guerra</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>71.252.192.86</ipAddress>
+		<thread dsq:id="964851406" />
+	</post>
+	<post dsq:id="730621955">
+		<id>wp_id=18</id>
+		<message><![CDATA[<p>Ya Im sure it has its limitations (generics..etc) but it seems like a 'nice-to-have' as a side tool in case you want to just lay down a demo ajax web app quickly. True that I wouldnt use it for non-web apps but it having support for all browsers is a big plus (save time moding ajax/js code for browser specifics) Im gonna try it out.. thanks for the link.</p>]]></message>
+		<createdAt>2010-05-13T20:09:59Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>iceman_qwa@yahoo.com</email>
+			<name>Joey</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>70.246.32.111</ipAddress>
+		<thread dsq:id="963621354" />
+	</post>
+	<post dsq:id="730621958">
+		<id>wp_id=22</id>
+		<message><![CDATA[<p>Agreed.  There are some times when a situation calls for a negative test, but they should be avoided wherever possible.  In my book, readability is king.  One thing I like about the Ruby language is the "unless" keyword.  It functions just like the "if" keyword but performs a negative test on a provided condition.  I'm not saying that it makes negative testing an ideal practice, but it makes it much more readable.</p>]]></message>
+		<createdAt>2010-05-19T19:32:55Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>casey.j.watson@gmail.com</email>
+			<name>Casey</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>66.151.252.130</ipAddress>
+		<thread dsq:id="963621359" />
+	</post>
+	<post dsq:id="730621961">
+		<id>wp_id=24</id>
+		<message><![CDATA[<p>Yes, very interesting.. I have to say that obviously logically it is equivalent but the points made are valid as far as readability. Actually I tend to use a negative test if it is an unexpected outcome and contains only one level in the IF block (just as a kind of sanity check to make sure nothing crazy is happening to an object or variable) but if the logic is about to flow into some complex operations then truly using more positive tests for the huge branching and sub-branching will be much more understandable to another coder.</p>]]></message>
+		<createdAt>2010-05-20T21:42:36Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>iceman_qwa@yahoo.com</email>
+			<name>Joey</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>70.246.32.111</ipAddress>
+		<thread dsq:id="963621359" />
+	</post>
+	<post dsq:id="730621967">
+		<id>wp_id=25</id>
+		<message><![CDATA[<p>I'm dealing with this scenario at work right now and people are starting to leave.</p>]]></message>
+		<createdAt>2010-05-21T20:56:29Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>brian.t.odonnell@gmail.com</email>
+			<name>Notorious BOD</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>99.7.231.159</ipAddress>
+		<thread dsq:id="963621364" />
+	</post>
+	<post dsq:id="730621963">
+		<id>wp_id=99</id>
+		<message><![CDATA[<p>Just curious...I don't know C#, but in ruby you could do something like this:</p><p>thing = foo &amp;&amp; foo.thing</p><p>Is this possible in C# ?</p>]]></message>
+		<createdAt>2010-08-11T19:41:49Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>anon@anon.com</email>
+			<name>B</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>66.194.162.158</ipAddress>
+		<thread dsq:id="963621362" />
+	</post>
+	<post dsq:id="730621965">
+		<id>wp_id=100</id>
+		<message><![CDATA[<p>There is a null coalescing operator that behaves similarly to what you coded. The problem is that in a statically typed language, this statement won't compile:<br>var thing = foo ?? foo.thing;</p><p>Ok, it could compile if foo.thing was the same type as foo, but assuming thing is something like "string", then no. I believe in ruby, thing could actually resolve to either a "foo" type or a "string" type at runtime without issue.</p><p>I'm thus stuck doing something like the ternary in the post.</p>]]></message>
+		<createdAt>2010-08-12T06:53:42Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>kijanawoodard@wyldeye.com</email>
+			<name>kijana</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>50.9.136.11</ipAddress>
+		<thread dsq:id="963621362" />
+		<parent dsq:id="730621963" />
+	</post>
+	<post dsq:id="730621971">
+		<id>wp_id=268</id>
+		<message><![CDATA[<p>Seems like GroupBy would work in this scenario.  How is this different?</p>]]></message>
+		<createdAt>2010-10-17T08:28:55Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>luv2code+kijanassite@gmail.com</email>
+			<name>Matt T</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>67.198.74.81</ipAddress>
+		<thread dsq:id="963621365" />
+	</post>
+	<post dsq:id="730621972">
+		<id>wp_id=269</id>
+		<message><![CDATA[<p>Wouldn't GroupBy on DivisionId work in this scenario?<br>Here's a linqpad query to illustrate what I mean:<br>void Main()<br>{</p><p>var list = Enumerable.Range(0, 9);</p><p>var groups = from x in list<br>group x by x.ModByTwo() into itemgroup<br>select itemgroup;<br>groups.Dump();<br>}</p><p>// Define other methods and classes here<br>public static class IntExtension<br>{<br>public static int ModByTwo(this int input){<br>return input % 2;<br>}<br>}</p>]]></message>
+		<createdAt>2010-10-17T08:40:07Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>luv2code+kijanassite@gmail.com</email>
+			<name>Matt T</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>67.198.74.81</ipAddress>
+		<thread dsq:id="963621365" />
+	</post>
+	<post dsq:id="730621975">
+		<id>wp_id=270</id>
+		<message><![CDATA[<p>I don't think so. I may not fully grok the linq group by, but doesn't it flatten the records similar to a sql group by? I still needed the individual records, but I needed them in sets based on their DivisionId, hence the List of Lists.</p><p>A ModByTwo-like function would require knowledge of how many items to stick in each sub lists which we don't know until runtime, but I think you were just using that for illustration.</p>]]></message>
+		<createdAt>2010-10-17T10:01:31Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>kijanawoodard@wyldeye.com</email>
+			<name>kijana</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>76.183.11.234</ipAddress>
+		<thread dsq:id="963621365" />
+		<parent dsq:id="730621972" />
+	</post>
+	<post dsq:id="730621978">
+		<id>wp_id=271</id>
+		<message><![CDATA[<p>Well blow me down. You're right. I had to go try it out.</p><p>All I had to was list.GroupBy(x =&gt; x.DivisionId);</p><p>I was confused because it returns IGrouping. I thought I had to do something special with it. I bound it to my repeater and, blam, everything worked without the partitioning logic. No extension methods necessary.</p><p>The Linq group by IS different from sql. Nice.</p>]]></message>
+		<createdAt>2010-10-17T10:14:13Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>kijanawoodard@wyldeye.com</email>
+			<name>kijana</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>76.183.11.234</ipAddress>
+		<thread dsq:id="963621365" />
+		<parent dsq:id="730621972" />
+	</post>
+	<post dsq:id="730621987">
+		<id>wp_id=4611</id>
+		<message><![CDATA[<p>Abstraction is critical for building highly cohesive software but I've seen many FactoryProviders and ProviderFactories that seemed completely unnecessary. I always liken it to the states of matter and, more specifically, that of water. You don't want ice or tightly coupled code. You don't want a gas because it's too difficult (unnecessarily difficult) to grasp. You should strive to make your code liquid and strike a balance based on the nature of the project at hand.</p>]]></message>
+		<createdAt>2012-02-15T07:50:57Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>casey.j.watson@gmail.com</email>
+			<name>Casey Watson</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>99.67.112.61</ipAddress>
+		<thread dsq:id="963541145" />
+	</post>
+	<post dsq:id="730621989">
+		<id>wp_id=4612</id>
+		<message><![CDATA[<p>By the way... I'm so stealing "Empty Calorie Abstractions." I couldn't have described it better myself.</p>]]></message>
+		<createdAt>2012-02-15T07:52:03Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>casey.j.watson@gmail.com</email>
+			<name>Casey Watson</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>99.67.112.61</ipAddress>
+		<thread dsq:id="963541145" />
+	</post>
+	<post dsq:id="730621984">
+		<id>wp_id=4698</id>
+		<message><![CDATA[<p>This post brings to light quite a few good points. The Fubu team has not focused on PRG for the very reason you point out; they use AJAX most of the time. They have admitted this fact for quite a while now.</p><p>I get the benefits too. However, a lot of my clients are trainers of various materials and expect that their students will be on disparate systems with older browsers. Furthermore, there still some companies out there that insist on disabling JavaScript across the entire corporation. It boggles my mind that this is still common practice, but it is nonetheless.</p><p>So, I still need to be able to support both POST scenarios. Typically, I just hook the form's with my AJAX. If JavaScript is disabled, the form's action takes over and a full POST occurs. Like you, I then run into the re-hydration problems. I hate that I even have to bother with the classic PRG, but I do.</p><p>Finally, if this does get baked into FubuMvc sometime fairly soon, I'll want to use behaviors to detect an AJAX POST vs. a standard one and handle all the cruft for each for me. For now, I'm going to think about your PRG solution and do some trials. It's a very interesting technique and, I don't see any waste if an AJAX POST does happen; the standard continuation just won't happen.</p><p>Great post!</p>]]></message>
+		<createdAt>2012-02-28T07:43:45Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>nospam@ventaur.com</email>
+			<name>Matt S.</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>98.211.90.157</ipAddress>
+		<thread dsq:id="963621372" />
+	</post>
+	<post dsq:id="730621947">
+		<id>wp_id=4853</id>
+		<message><![CDATA[<p>Congratulations, you've re-invented inheritance!</p>]]></message>
+		<createdAt>2012-03-23T13:45:48Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>abfab@querty.com</email>
+			<name>F</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>193.212.51.164</ipAddress>
+		<thread dsq:id="964851406" />
+	</post>
+	<post dsq:id="730621948">
+		<id>wp_id=4890</id>
+		<message><![CDATA[<p>Congratulations, you (nearly) understood the post!</p><p>I didn't "re-invent inheritance", I'm *utilizing* classes to solve a particular type of problem instead of using magic strings or enums. The whole point of the post is that you should bias towards leaning on OO instead of enums.</p>]]></message>
+		<createdAt>2012-03-30T20:55:47Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>kijanawoodard@wyldeye.com</email>
+			<name>kijana</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>70.234.250.234</ipAddress>
+		<thread dsq:id="964851406" />
+		<parent dsq:id="730621947" />
+	</post>
+	<post dsq:id="730621986">
+		<id>wp_id=5472</id>
+		<message><![CDATA[<p>There are a couple of great posts about this same thing being applied to the Entity Framework and other persistence technologies.</p><p><a href="http://www.nogginbox.co.uk/blog/do-we-need-the-repository-pattern" rel="nofollow">http://www.nogginbox.co.uk/blo...</a><br><a href="http://ayende.com/blog/3955/repository-is-the-new-singleton" rel="nofollow">http://ayende.com/blog/3955/re...</a></p><p>Much worth the read in my opinion.  I also like the follow up on not protecting your developers.</p><p><a href="http://davybrion.com/blog/2009/04/educate-developers-instead-of-protecting-them/" rel="nofollow">http://davybrion.com/blog/2009...</a></p>]]></message>
+		<createdAt>2012-07-31T02:19:54Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>landon.poch@parivedasolutions.com</email>
+			<name>Landon Poch</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>209.163.178.60</ipAddress>
+		<thread dsq:id="963541145" />
+	</post>
+	<post dsq:id="742497995">
+		<id />
+		<message><![CDATA[<p>I'm a HUGE fan of minimalism in general.  Sometimes that philosophy can get me into a bit of trouble because I often try to oversimplify complicated issues by focusing on the absolute essential.  Even still, if I overlook a detail here or there I can go back and fix it when needed.  I find thinking like a minimalist helps produce targeted solutions.</p><p>Now if you could just convince people to publish their deployment plans and their training guides in markdown instead of in random word documents littered throughout SharePoint sites!  Then things would become indexed and searchable.  The world would be a better place.</p>]]></message>
+		<createdAt>2012-12-19T07:20:47Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>landon.poch@gmail.com</email>
+			<name>Landon</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>76.185.239.61</ipAddress>
+		<thread dsq:id="967580900" />
+	</post>
+	<post dsq:id="743671067">
+		<id />
+		<message><![CDATA[<p>First Comment!</p>]]></message>
+		<createdAt>2012-12-20T14:13:24Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>brian.t.odonnell@gmail.com</email>
+			<name>Brian O'Donnell</name>
+			<isAnonymous>false</isAnonymous>
+			<username>google-778b616f617119e9f597d0e98667c0a3</username>
+		</author>
+		<ipAddress>12.69.67.220</ipAddress>
+		<thread dsq:id="967580900" />
+	</post>
+	<post dsq:id="743756074">
+		<id />
+		<message><![CDATA[<p>sweeeeet!</p>]]></message>
+		<createdAt>2012-12-20T15:32:14Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>aisha_woodard@hotmail.com</email>
+			<name>Aisha Woodard</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>38.101.219.120</ipAddress>
+		<thread dsq:id="967580900" />
+	</post>
+	<post dsq:id="744150273">
+		<id />
+		<message><![CDATA[<p>I think you should stick to HTML 5. It is compact, easy and can be under your control no matter what the rest of the world it doing. It also probably loads faster than gist.</p>]]></message>
+		<createdAt>2012-12-20T22:31:06Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>chiefpriestess@gmail.com</email>
+			<name>Iya Omitade Ifatoosin</name>
+			<isAnonymous>false</isAnonymous>
+			<username>google-b76a6c7988fe17873104f8fd23460c46</username>
+		</author>
+		<ipAddress>69.19.14.36</ipAddress>
+		<thread dsq:id="967580900" />
+	</post>
+	<post dsq:id="746083276">
+		<id />
+		<message><![CDATA[<p>I'm not convinced about using markdown as the data source. I still think HTML is better so that editors can include meta data about an article.</p>]]></message>
+		<createdAt>2012-12-23T13:46:44Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>disquss@joeyguerra.com</email>
+			<name>Joey Guerra</name>
+			<isAnonymous>false</isAnonymous>
+			<username>joey_guerra</username>
+		</author>
+		<ipAddress>71.97.55.248</ipAddress>
+		<thread dsq:id="967580900" />
+	</post>
+	<post dsq:id="767725203">
+		<id />
+		<message><![CDATA[<p>Thank you for this gem of an idea. Makes code much cleaner.</p>]]></message>
+		<createdAt>2013-01-14T20:27:29Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>mohamed.elmalky@gmail.com</email>
+			<name>Mohamed Elmalky</name>
+			<isAnonymous>false</isAnonymous>
+			<username>google-9022aac38e48f9f1844b2b78e6c51033</username>
+		</author>
+		<ipAddress>67.154.115.106</ipAddress>
+		<thread dsq:id="964851406" />
+	</post>
+	<post dsq:id="774620362">
+		<id />
+		<message><![CDATA[<p>Thanks, you helped me make my argument complete.</p>]]></message>
+		<createdAt>2013-01-22T09:46:22Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>y543@yahoo.com</email>
+			<name>Yuri Vaillant</name>
+			<isAnonymous>false</isAnonymous>
+			<username>yurivaillant</username>
+		</author>
+		<ipAddress>10.36.127.142</ipAddress>
+		<thread dsq:id="964851406" />
+	</post>
+	<post dsq:id="783016750">
+		<id />
+		<message><![CDATA[<p>Thanks for the post. Wish I've read this a week ago. Int works great at first but for indexes its just not working out good at all. I'm switching back to strings and use an ToIntId extension for use when creating view model objects.</p>]]></message>
+		<createdAt>2013-01-30T10:13:22Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>max@mwsd.se</email>
+			<name>Max</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>85.224.8.193</ipAddress>
+		<thread dsq:id="963596839" />
+	</post>
+	<post dsq:id="783273721">
+		<id />
+		<message><![CDATA[<p>Since RavenDB doesn't care what the string is. I sometimes use a Guid or ShortGuid implementation for my ids. The nice part about using guids is you don't leak business knowledge out through your ids. Example below.</p><p>I signup for a service and see that I am Customer/1 or CreditCard/1 then that might scare me or let my competitors know where I am at in my conception. Also if you have a ballpark estimate of customers (Customer/2020) and the service charges $20/month per customer. Competitors might realize that my monthly income is $40,400.</p><p>These are things to keep in mind. If you ids are all used internally then I would just stick with the Id scheme that Raven gives you.</p><p>You do lose a feature by changing the seperator to -. If your id ends with a / then raven will put a number at the end for you. ex. "customer/1/creditcard/" would get a number.</p>]]></message>
+		<createdAt>2013-01-30T15:04:50Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>khalid@aquabirdconsulting.com</email>
+			<name>Khalid Abuhakmeh</name>
+			<isAnonymous>false</isAnonymous>
+			<username>AquaBirdConsult</username>
+		</author>
+		<ipAddress>71.207.45.113</ipAddress>
+		<thread dsq:id="963596839" />
+	</post>
+	<post dsq:id="783287464">
+		<id />
+		<message><![CDATA[<p>I'd also be careful with your plan if you have plans to Shard your data. Sharding in RavenDB places the Shard key at the beginning of your Id. if USA was a shard, your key would look like "USA/Customer/1". Your extension method should be implemented in a way that can take that into account.</p>]]></message>
+		<createdAt>2013-01-30T15:16:27Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>khalid@aquabirdconsulting.com</email>
+			<name>Khalid Abuhakmeh</name>
+			<isAnonymous>false</isAnonymous>
+			<username>AquaBirdConsult</username>
+		</author>
+		<ipAddress>71.207.45.113</ipAddress>
+		<thread dsq:id="963596839" />
+		<parent dsq:id="783016750" />
+	</post>
+	<post dsq:id="832070399">
+		<id />
+		<message><![CDATA[<p>You probably already know this but just for fun: <a href="http://blogs.msdn.com/b/ericlippert/archive/2009/05/18/foreach-vs-foreach.aspx" rel="nofollow">http://blogs.msdn.com/b/ericli...</a></p><p>When using expressions they should be for evaluation, not for side effects.  I found myself using SomeList.ForEach(x =&gt; { some action }) for a while.  I stopped using it after reading that just as a way to build good functional programming habits.  Even though { some action } isn't really an expression because it doesn't return anything, it just seems a little strange.</p>]]></message>
+		<createdAt>2013-03-17T05:31:13Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>landon.poch@gmail.com</email>
+			<name>Landon Poch</name>
+			<isAnonymous>false</isAnonymous>
+			<username>google-c3c7937727245441d3d064072e1cf552</username>
+		</author>
+		<ipAddress>76.185.239.61</ipAddress>
+		<thread dsq:id="964891254" />
+	</post>
+	<post dsq:id="904790877">
+		<id />
+		<message><![CDATA[<p>below js code outputs 'Tue, 21 May 2013 06:57:39 GMT'</p><p>var now = new Date();</p><p>console.log(new.toUTCString());</p><p>How can i remove GMT in using java script? Is there any UTC<br>js methods avialble for this?</p><p>Thanks</p><p><a href="http://www.cloudhadoop.com/2013/05/Grep-Simple-Example-Linux-Unix.html" rel="nofollow">Grep<br>Command Examples in Linux/Unix </a></p>]]></message>
+		<createdAt>2013-05-22T12:53:48Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>kb18001@gmail.com</email>
+			<name>Kiran Kumar</name>
+			<isAnonymous>false</isAnonymous>
+			<username>google-6cec88e215ddd23c5e2177324e578fb0</username>
+		</author>
+		<ipAddress>10.80.156.4</ipAddress>
+		<thread dsq:id="963596815" />
+	</post>
+	<post dsq:id="1061683717">
+		<id />
+		<message><![CDATA[<p>1) you overlooked the simplest and best solution for your scenario: inheritance. You should extend Car and let each class have its own implementation of DoCarStuff <br>2) that's not the strategy pattern, and that breaks about a dozen of design principles, like the open closed principle and the law of Demeter for example.<br>3) Enums don't suck. Whoever wrote the original code clearly doesn't know *when* to use them - he's the problem.</p>]]></message>
+		<createdAt>2013-09-27T19:38:56Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>diogo.filipe.acastro@gmail.com</email>
+			<name>Diogo Castro</name>
+			<isAnonymous>false</isAnonymous>
+			<username>disqus_Ook4EAFNRV</username>
+		</author>
+		<ipAddress>92.40.248.33</ipAddress>
+		<thread dsq:id="964851406" />
+	</post>
+	<post dsq:id="1061737930">
+		<id />
+		<message><![CDATA[<p>Three years later, I'm still not thrilled with the code above, but the general idea is the same: don't use enums to drive behavior, use classes. I think we agree on that much.</p>]]></message>
+		<createdAt>2013-09-27T20:20:18Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<thread dsq:id="964851406" />
+		<parent dsq:id="1061683717" />
+	</post>
+	<post dsq:id="1063845027">
+		<id />
+		<message><![CDATA[<p>Definitely! That's a good lesson to take from this. I also agree with you when you say that enums are good for identification. "LogLevel" is a classical example.</p>]]></message>
+		<createdAt>2013-09-29T21:36:28Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>diogo.filipe.acastro@gmail.com</email>
+			<name>Diogo Castro</name>
+			<isAnonymous>false</isAnonymous>
+			<username>disqus_Ook4EAFNRV</username>
+		</author>
+		<ipAddress>86.147.38.14</ipAddress>
+		<thread dsq:id="964851406" />
+		<parent dsq:id="1061737930" />
+	</post>
+	<post dsq:id="1068455075">
+		<id />
+		<message><![CDATA[<p>Thanks for a detailed review of the book. Certainly looking forward to it.</p>]]></message>
+		<createdAt>2013-10-03T09:12:04Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>sandyp@packtpub.com</email>
+			<name>Sandy</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>115.117.112.74</ipAddress>
+		<thread dsq:id="1812042448" />
+	</post>
+	<post dsq:id="1076436774">
+		<id />
+		<message><![CDATA[<p>Are you describing the decorator pattern here?</p>]]></message>
+		<createdAt>2013-10-09T16:13:01Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>disquss@joeyguerra.com</email>
+			<name>Joey Guerra</name>
+			<isAnonymous>false</isAnonymous>
+			<username>joey_guerra</username>
+		</author>
+		<ipAddress>166.147.123.177</ipAddress>
+		<thread dsq:id="1837085193" />
+	</post>
+	<post dsq:id="1076466647">
+		<id />
+		<message><![CDATA[<p>I don't usually "think in patterns", but if you're taking about the "solution", then the mediator pattern...I guess.</p>]]></message>
+		<createdAt>2013-10-09T16:35:37Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<thread dsq:id="1837085193" />
+		<parent dsq:id="1076436774" />
+	</post>
+	<post dsq:id="1078462891">
+		<id />
+		<message><![CDATA[<p>I wish all the programmers I'll ever have to work with would read this post and apply it.  This is a huge problem because it creates massively convoluted code.  For me, saying that this is an ISP violation is simply a more specific way of saying people are abusing scope.  If you don't need a dependency at the class level, then why is it there?</p><p>Why don't I just define everything as static and assume that everything depends on everything?  Because it's a tangled mess that's why.  The violation in your example is pretty much the same thing, just to a lesser degree.  The bottom line is, always keep variable scope as minimal as possible.  Great programmers have always been minimalists.</p><p>A couple of thoughts on IoC...</p><p>I agree that IoC isn't causing the problem here but it definitely is an accomplice.  Having the classes "newed" up automatically by the container makes these things easier to miss.  I've also seen performance problems occur when pulling a new instance of a class from the container because it has a bunch of needless dependencies.  You can avoid these problems though by just being careful and not abusing the power the container gives you.</p><p>I also enjoyed an article by  David Heinemeier Hansson where he explains why dependency injection is obsolete in dynamic languages.  <a href="http://david.heinemeierhansson.com/2012/dependency-injection-is-not-a-virtue.html" rel="nofollow">http://david.heinemeierhansson...</a>.  I agree with the idea that a pattern in one language might just be a feature that is built into the semantics of another language.</p><p>I've seen a lot of people put waaaaay too much weight behind dependency injection and ignore a lot of more important overarching principles like SRP, OCP, LSP, ISP and IoC.  Dependency injection isn't even a principle really.  It's more of an implementation detail of a principle called IoC.  I think a lot of times we focus on the wrong things and miss the really important programming concepts.  So many people are obsessed with the buzz words that they miss the underlying value.  Often programmers will use things that aren't necessary and be completely ignorant to other basic things that are arguably way more important.</p>]]></message>
+		<createdAt>2013-10-11T04:51:41Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>landon.poch@gmail.com</email>
+			<name>Landon Poch</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>76.185.239.61</ipAddress>
+		<thread dsq:id="1840559527" />
+	</post>
+	<post dsq:id="1078864808">
+		<id />
+		<message><![CDATA[<p>Excellent points. Thanks for the DHH link. One thing that egged me to write this post was stumbling across some FP threads which said things like "and that leads to asinine things like TDD and IoC containers".</p><p>To your point, if merely changing languages removes the need for a tool, maybe this isn't a core programming need at all but incidental complexity introduced by your language of choice.</p><p>But even then, can the problem be reshaped so that the tool isn't needed. If it hurts when you do that, don't do that. Don't make a tool to hurt yourself more efficiently.</p>]]></message>
+		<createdAt>2013-10-11T15:07:08Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<thread dsq:id="1840559527" />
+		<parent dsq:id="1078462891" />
+	</post>
+	<post dsq:id="1078912297">
+		<id />
+		<message><![CDATA[<p>Udi Dahan has a good post about domain messaging, which is very different than the enterprise messaging and integration that most people think of when they hear the term "messaging."   <a href="http://www.udidahan.com/2009/06/14/domain-events-salvation/" rel="nofollow">http://www.udidahan.com/2009/0...</a>.  There are some other niceties that could be added to Udi's example but he's provided enough to make his point.</p><p>Domain messaging is lightweight and specific to the internals of the application only.  It's also noteworthy that this message bus isn't necessarily being injected into everything (static) because you often want to raise a domain event from inside an aggregate root or entity.  Injecting dependencies into those is generally a bad idea.  Handlers usually don't run on a separate thread either so you can keep control over when you need to spin off a new thread or when you don't need that added complexity.</p><p>I've also found that domain messaging helps keep your infrastructure related code decoupled from your aggregates/entites so that your domain layer is more pure.</p>]]></message>
+		<createdAt>2013-10-11T15:34:52Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>landon.poch@gmail.com</email>
+			<name>Landon Poch</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>12.25.107.2</ipAddress>
+		<thread dsq:id="1840678277" />
+	</post>
+	<post dsq:id="1078926464">
+		<id />
+		<message><![CDATA[<p>That post was what led me to all this many years ago. I read it and immediately thought "this is what I've been looking for, but couldn't express".</p><p>If we keep thinking about that static bus, it gets a bit interesting and scary.</p><p>We bristle because it's a "hidden dependency". Udi shows how to test it [though you need to be careful on test startup/shutdown to cleanup and ensure configuration].</p><p>My counter argument is that I want messaging to "just be there" as part of the way things work.</p><p>Yesterday I went trolling around some sites looking for actors in Erlang, akka, etc. Then I stumbled on this: <a href="http://fsharpforfunandprofit.com/posts/concurrency-actor-model/" rel="nofollow">http://fsharpforfunandprofit.c...</a>.</p><p>Ummmm. I'm starting to see my problem, but I don't want to say it out loud.</p>]]></message>
+		<createdAt>2013-10-11T15:45:15Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<thread dsq:id="1840678277" />
+		<parent dsq:id="1078912297" />
+	</post>
+	<post dsq:id="1079980323">
+		<id />
+		<message><![CDATA[<p>I have personally observed and confirmed every one of these techniques as valid proven facts.</p>]]></message>
+		<createdAt>2013-10-12T14:20:25Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>graphite@joeyguerra.com</email>
+			<name>Joey Guerra</name>
+			<isAnonymous>false</isAnonymous>
+			<username>joeyguerra</username>
+		</author>
+		<ipAddress>72.64.67.242</ipAddress>
+		<thread dsq:id="1847055631" />
+	</post>
+	<post dsq:id="1079996343">
+		<id />
+		<message><![CDATA[<p>It's funny 'cause it's true. :-)</p>]]></message>
+		<createdAt>2013-10-12T14:43:02Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>brian.t.odonnell@gmail.com</email>
+			<name>Brian</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>99.7.230.149</ipAddress>
+		<thread dsq:id="1847055631" />
+	</post>
+	<post dsq:id="1080143068">
+		<id />
+		<message><![CDATA[<p>See, their behavior really is logical and predictable!</p>]]></message>
+		<createdAt>2013-10-12T17:26:24Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>liamlsullivan@gmail.com</email>
+			<name>Liam Lynch</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>63.234.66.2</ipAddress>
+		<thread dsq:id="1847055631" />
+	</post>
+	<post dsq:id="1082627218">
+		<id />
+		<message><![CDATA[<p>Can we go further? Can't we just say that class Oauth2Authentication is the interface? I mean, why do I have to care if it implements IAuthenticate? Do I care if it implements that "interface" or do I care if it has or doesn't a method called Authenticate?</p>]]></message>
+		<createdAt>2013-10-15T02:08:23Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>graphite@joeyguerra.com</email>
+			<name>Joey Guerra</name>
+			<isAnonymous>false</isAnonymous>
+			<username>joeyguerra</username>
+		</author>
+		<ipAddress>173.64.197.229</ipAddress>
+		<thread dsq:id="1857489162" />
+	</post>
+	<post dsq:id="1083136790">
+		<id />
+		<message><![CDATA[<p>Brilliant! and not violations of SRP in constructors!</p>]]></message>
+		<createdAt>2013-10-15T14:38:19Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>trailmax1@gmail.com</email>
+			<name>trailmax</name>
+			<isAnonymous>false</isAnonymous>
+			<username>trailmax</username>
+		</author>
+		<ipAddress>135.196.248.114</ipAddress>
+		<thread dsq:id="1847055631" />
+	</post>
+	<post dsq:id="1083143355">
+		<id />
+		<message><![CDATA[<p>You've brought up two future posts. :-)</p><p>I would say the interface is the Authenticate method. I hinted at this at the end of <a href="http://kijanawoodard.com/violating-isp-with-constructor-injection" rel="nofollow">http://kijanawoodard.com/viola...</a></p>]]></message>
+		<createdAt>2013-10-15T14:44:03Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<thread dsq:id="1857489162" />
+		<parent dsq:id="1082627218" />
+	</post>
+	<post dsq:id="1083895264">
+		<id />
+		<message><![CDATA[<p>Oh the paradox!</p>]]></message>
+		<createdAt>2013-10-16T01:52:43Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>graphite@joeyguerra.com</email>
+			<name>Joey Guerra</name>
+			<isAnonymous>false</isAnonymous>
+			<username>joeyguerra</username>
+		</author>
+		<ipAddress>173.64.197.229</ipAddress>
+		<thread dsq:id="1861307181" />
+	</post>
+	<post dsq:id="1085737124">
+		<id />
+		<message><![CDATA[<p>Something like <a href="http://resharper-plugins.jetbrains.com" rel="nofollow">http://resharper-plugins.jetbr...</a>, you mean? :)</p><p>ReSharper plugins can be wrapped up as NuGet packages. You can find out more here: <a href="http://confluence.jetbrains.com/display/NETCOM/1.9+Packaging+%28R8%29" rel="nofollow">http://confluence.jetbrains.co...</a></p><p>and there's more documentation on macros here: <a href="http://confluence.jetbrains.com/display/NETCOM/4.04+Live+Template+Macros+%28R8%29" rel="nofollow">http://confluence.jetbrains.co...</a></p><p>We're working on something for NuGet, but for now, you need to download the sdk from the website.<br>Nice post!<br>Matt</p>]]></message>
+		<createdAt>2013-10-17T14:19:41Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>true</isSpam>
+		<author>
+			<email>m.t.ellis@gmail.com</email>
+			<name>Matt Ellis</name>
+			<isAnonymous>false</isAnonymous>
+			<username>disqus_sMbqyDEPvF</username>
+		</author>
+		<ipAddress>87.115.58.179</ipAddress>
+		<thread dsq:id="1864550884" />
+	</post>
+	<post dsq:id="1094063465">
+		<id />
+		<message><![CDATA[<p>I'm gonna try this out and see what happens. I like stuff just compiling and saving, but I just noticed it doesn't support VS2013. :(</p>]]></message>
+		<createdAt>2013-10-23T18:27:15Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>khalidabuhakmeh@gmail.com</email>
+			<name>khalidabuhakmeh</name>
+			<isAnonymous>false</isAnonymous>
+			<username>khalidabuhakmeh</username>
+		</author>
+		<ipAddress>71.57.233.152</ipAddress>
+		<thread dsq:id="1837612645" />
+	</post>
+	<post dsq:id="1095154979">
+		<id />
+		<message><![CDATA[<p>Gah! It does seem like Red Gate isn't all that enthused about this product. Another thought I have is to use NCrunch to auto build and run tests and find some other way to trigger Live Reload.</p>]]></message>
+		<createdAt>2013-10-24T14:42:07Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<thread dsq:id="1837612645" />
+		<parent dsq:id="1094063465" />
+	</post>
+	<post dsq:id="1095464193">
+		<id />
+		<message><![CDATA[<p>I'm somewhat conflicted about this blog post.  I like what you're doing, and the code is very clean and concise.  And ISP is followed such that, as you mention, units of work are separate and can be tested as actual units.  Although, on the other hand, it feels a little bit like magic.  The old way, although messier, was at-a-glance readable.  I feel like there's a middle ground somewhere.</p><p>Been enjoying your blog.  :)</p>]]></message>
+		<createdAt>2013-10-24T18:35:53Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>mikepennington@gmail.com</email>
+			<name>Mike Pennington</name>
+			<isAnonymous>false</isAnonymous>
+			<username>disqus_2VTGh8ISZ1</username>
+		</author>
+		<ipAddress>12.25.107.2</ipAddress>
+		<thread dsq:id="1895235189" />
+	</post>
+	<post dsq:id="1095467623">
+		<id />
+		<message><![CDATA[<p>Wait till next time. :-]</p>]]></message>
+		<createdAt>2013-10-24T18:38:43Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<thread dsq:id="1895235189" />
+		<parent dsq:id="1095464193" />
+	</post>
+	<post dsq:id="1095730469">
+		<id />
+		<message><![CDATA[<p>I want to see how this looks when you apply similar principles in JavaScript. </p>]]></message>
+		<createdAt>2013-10-24T21:48:17Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>disquss@joeyguerra.com</email>
+			<name>Joey Guerra</name>
+			<isAnonymous>false</isAnonymous>
+			<username>joey_guerra</username>
+		</author>
+		<ipAddress>173.64.197.229</ipAddress>
+		<thread dsq:id="1895235189" />
+	</post>
+	<post dsq:id="1095732945">
+		<id />
+		<message><![CDATA[<p>Ummmm. Me too. Rob Ashton is laying it down: <a href="https://github.com/robashton/look-ma-no-frameworks" rel="nofollow">https://github.com/robashton/l...</a></p>]]></message>
+		<createdAt>2013-10-24T21:50:24Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<thread dsq:id="1895235189" />
+		<parent dsq:id="1095730469" />
+	</post>
+	<post dsq:id="1097187370">
+		<id />
+		<message><![CDATA[<p>This reminds me of a pub sub implementation, which of course, I LOVE!</p>]]></message>
+		<createdAt>2013-10-26T04:03:09Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>graphite@joeyguerra.com</email>
+			<name>Joey Guerra</name>
+			<isAnonymous>false</isAnonymous>
+			<username>joeyguerra</username>
+		</author>
+		<ipAddress>173.64.197.229</ipAddress>
+		<thread dsq:id="1896904284" />
+	</post>
+	<post dsq:id="1097484183">
+		<id />
+		<message><![CDATA[<p>And I couldn't help but <a href="http://www.youtube.com/watch?v=b2F-DItXtZs" rel="nofollow">http://www.youtube.com/watch?v...</a> to the web scale link.</p>]]></message>
+		<createdAt>2013-10-26T14:41:41Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>graphite@joeyguerra.com</email>
+			<name>Joey Guerra</name>
+			<isAnonymous>false</isAnonymous>
+			<username>joeyguerra</username>
+		</author>
+		<ipAddress>173.64.197.229</ipAddress>
+		<thread dsq:id="1896904284" />
+	</post>
+	<post dsq:id="1097911017">
+		<id />
+		<message><![CDATA[<p>Good post and excellent example Kijana. Thank you.</p>]]></message>
+		<createdAt>2013-10-26T22:20:10Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>feldman.sean@gmail.com</email>
+			<name>Sean Feldman</name>
+			<isAnonymous>false</isAnonymous>
+			<username>seanfeldman</username>
+		</author>
+		<ipAddress>24.114.40.177</ipAddress>
+		<thread dsq:id="1840678277" />
+	</post>
+	<post dsq:id="1100774920">
+		<id />
+		<message><![CDATA[<p>This reminds me of what Fubu MVC is doing, where actions can be chained. I am still on the fence of whether I would use something like this or not, since the cognitive overhead might not be worth the addition of the code.</p>]]></message>
+		<createdAt>2013-10-29T13:50:57Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>khalidabuhakmeh@gmail.com</email>
+			<name>khalidabuhakmeh</name>
+			<isAnonymous>false</isAnonymous>
+			<username>khalidabuhakmeh</username>
+		</author>
+		<ipAddress>71.57.233.152</ipAddress>
+		<thread dsq:id="1896904284" />
+	</post>
+	<post dsq:id="1105434903">
+		<id />
+		<message><![CDATA[<p>The one thing I'm not sure about is how you've IoC component depends on MVC.  If I wanted to use this in a console app or a WPF project I'd have to create a reference to MVC for the IDependencyResolver interface.</p>]]></message>
+		<createdAt>2013-11-01T20:47:01Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>landon.poch@gmail.com</email>
+			<name>Landon Poch</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>12.25.107.2</ipAddress>
+		<thread dsq:id="1920268063" />
+	</post>
+	<post dsq:id="1105437738">
+		<id />
+		<message><![CDATA[<p>**you're not you've :D</p><p>I guess if I want to edit my previous posts I shouldn't be posting as a guest.</p>]]></message>
+		<createdAt>2013-11-01T20:48:27Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>landon.poch@gmail.com</email>
+			<name>Landon Poch</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>12.25.107.2</ipAddress>
+		<thread dsq:id="1920268063" />
+		<parent dsq:id="1105434903" />
+	</post>
+	<post dsq:id="1105486676">
+		<id />
+		<message><![CDATA[<p>It doesn't depend on MVC, only VesselDependencyResolver does: <a href="https://github.com/kijanawoodard/Blog/blob/0109d6256b59e23478338ca42960737bd1a98ffc/src/Blog.Web/Infrastructure/Vessel.cs#L81" rel="nofollow">https://github.com/kijanawooda...</a></p><p>And that only exists to connect Vessel to MVC. The rest you can take use wherever.</p><p>If this was in nuget, VesselDependencyResolver would be in a separate package named Vessel.Mvc. As is, don't copy paste that class. :-]</p>]]></message>
+		<createdAt>2013-11-01T21:11:15Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<thread dsq:id="1920268063" />
+		<parent dsq:id="1105434903" />
+	</post>
+	<post dsq:id="1105582656">
+		<id />
+		<message><![CDATA[<p>Makes sense.  I guess if your framework is typically constructing a top level object (like a controller or an SVC file or whatever) you have to wire in your container somehow.</p>]]></message>
+		<createdAt>2013-11-01T21:55:39Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>landon.poch@gmail.com</email>
+			<name>Landon Poch</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>12.25.107.2</ipAddress>
+		<thread dsq:id="1920268063" />
+		<parent dsq:id="1105486676" />
+	</post>
+	<post dsq:id="1105644361">
+		<id />
+		<message><![CDATA[<p>Yeah. That is <a href="http://asp.net" rel="nofollow">asp.net</a> MVC's way to wire in your container: IDependencyResolver.</p><p>They actually have quite a few hooks into the pipeline, but for most folks, you pick your IoC and use it's IDependencyResolver implementation. This is AutoFac's version I was using: <a href="https://github.com/kijanawoodard/Blog/blob/785daa908deaa6caa0074974b6a25085f5efd9f0/src/Blog.Web/Initialization/AutofacConfig.cs#L26" rel="nofollow">https://github.com/kijanawooda...</a></p>]]></message>
+		<createdAt>2013-11-01T22:55:17Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<thread dsq:id="1920268063" />
+		<parent dsq:id="1105582656" />
+	</post>
+	<post dsq:id="1114053129">
+		<id />
+		<message><![CDATA[<p>Restful Routing has the idea of a FormatResult. You can send in data, and based on the requests extension it will figure out what view you want to render it in. It works decently well, just gets goofy when dealing with ajax and routings "keep stuff around" default.</p><p><a href="http://restfulrouting.com/mappings/extras" rel="nofollow">http://restfulrouting.com/mapp...</a></p><p>OH YEAH I WENT THERE!!!! Booyah!</p>]]></message>
+		<createdAt>2013-11-08T17:05:09Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>khalidabuhakmeh@gmail.com</email>
+			<name>khalidabuhakmeh</name>
+			<isAnonymous>false</isAnonymous>
+			<username>khalidabuhakmeh</username>
+		</author>
+		<ipAddress>71.57.233.152</ipAddress>
+		<thread dsq:id="1946018935" />
+	</post>
+	<post dsq:id="1118523469">
+		<id />
+		<message><![CDATA[<p>IIIIIIEEEEEEEEE!!!!!! IE Accepts header doesn't include text/html.</p><p><a href="http://www.gethifi.com/blog/browser-rest-http-accept-headers" rel="nofollow">http://www.gethifi.com/blog/br...</a></p>]]></message>
+		<createdAt>2013-11-11T20:14:07Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>graphite@joeyguerra.com</email>
+			<name>Joey Guerra</name>
+			<isAnonymous>false</isAnonymous>
+			<username>joeyguerra</username>
+		</author>
+		<ipAddress>165.130.136.210</ipAddress>
+		<thread dsq:id="1946018935" />
+	</post>
+	<post dsq:id="1118962128">
+		<id />
+		<message><![CDATA[<p>Bleh. I checked my blog and IE 10 seems ok. I don't think I care about IE 8. I'll wait for the complaints to come in.</p><p>In terms of webkit, I'm handling that by making the preference based on the order of my conneg components. It looks like I should prefer the one marked with q, but I'll leave that for another day. A day, far far far in the future.</p>]]></message>
+		<createdAt>2013-11-12T03:44:21Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>76.183.71.96</ipAddress>
+		<thread dsq:id="1946018935" />
+		<parent dsq:id="1118523469" />
+	</post>
+	<post dsq:id="1146897397">
+		<id />
+		<message><![CDATA[<p>Isn't life cycle management a 'key' (read: core) feature of an IoC container? And that leads to dependency life cycle management. I look at it as a smell when an application uses an IoC container but delegates no object life cycle and dependency life cycle management to the container.</p>]]></message>
+		<createdAt>2013-12-02T03:20:24Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>askafif@y7mail.com</email>
+			<name>Afif Mohammed</name>
+			<isAnonymous>false</isAnonymous>
+			<username>afifmohammed</username>
+		</author>
+		<ipAddress>120.150.77.38</ipAddress>
+		<thread dsq:id="1920268063" />
+	</post>
+	<post dsq:id="1147016975">
+		<id />
+		<message><![CDATA[<p>You seem to have back tracked on your opinion on not abstracting RavenDB, given your most recent stance on the RavenDB forum. Doesn't the following still apply? (well said though)</p><p>---<br>These technologies have subtle, and not so subtle, differences that contribute to a decision about whether or not to use them in your project. You can't hide them behind an abstraction "in case you were wrong".</p><p>Either you are castrating the tool, meaning you might as well have chosen something else, or your abstraction is an illusion and you're wasting time with Empty Calorie Abstractions.</p>]]></message>
+		<createdAt>2013-12-02T06:13:06Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>askafif@y7mail.com</email>
+			<name>Afif Mohammed</name>
+			<isAnonymous>false</isAnonymous>
+			<username>afifmohammed</username>
+		</author>
+		<ipAddress>165.228.24.87</ipAddress>
+		<thread dsq:id="963541145" />
+	</post>
+	<post dsq:id="1147427808">
+		<id />
+		<message><![CDATA[<p>Vessel provides Singleton and also "Instance per xyz" via the Func registration. Whether the instance is "per request" is determined by usage. This is inline with other IoC containers that have separate nuget packages to do per request. <a href="https://code.google.com/p/autofac/wiki/MvcIntegration" rel="nofollow">https://code.google.com/p/auto...</a>. That makes sense because "per request" means something different in a web app vs a standard console app vs a wpf app.</p><p>Using Vessel with Liaison, "requests" are always funneled to one call within the mediator, so resolving once and using several times in the mediation works as "per request".</p>]]></message>
+		<createdAt>2013-12-02T16:06:16Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>199.47.223.11</ipAddress>
+		<thread dsq:id="1920268063" />
+		<parent dsq:id="1146897397" />
+	</post>
+	<post dsq:id="1147430667">
+		<id />
+		<message><![CDATA[<p>Quite the opposite. I think I've doubled down. Questions I've received from several sources tell me that my posts about mediation (Liaison) are not clear enough to demonstrate the application of this principle. I will write a more concrete follow up post as soon as I can.</p>]]></message>
+		<createdAt>2013-12-02T16:08:42Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>199.47.223.11</ipAddress>
+		<thread dsq:id="963541145" />
+		<parent dsq:id="1147016975" />
+	</post>
+	<post dsq:id="1155312697">
+		<id />
+		<message><![CDATA[<p>Have you looked at TInyMessenger (part of TinyIoC)? Its a more full fledged in memory bus with pub sub semantics, all rolled into one file.</p>]]></message>
+		<createdAt>2013-12-08T22:16:47Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>askafif@y7mail.com</email>
+			<name>Afif Mohammed</name>
+			<isAnonymous>false</isAnonymous>
+			<username>afifmohammed</username>
+		</author>
+		<ipAddress>120.150.77.38</ipAddress>
+		<thread dsq:id="1896904284" />
+	</post>
+	<post dsq:id="1156452242">
+		<id />
+		<message><![CDATA[<p>Nice. Thanks for the heads up.</p><p>Liaison is aiming to find a minimum level of abstraction. It's more an exercise in understanding than anything. For instance, just responding to this comment, I've thought of a couple way to further simplify my stack. :-]</p>]]></message>
+		<createdAt>2013-12-09T21:29:55Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>199.47.223.11</ipAddress>
+		<thread dsq:id="1896904284" />
+		<parent dsq:id="1155312697" />
+	</post>
+	<post dsq:id="1156501640">
+		<id />
+		<message><![CDATA[<p>And you're doing great. I love minimalism too, but often, in that pursuit I think I am probably going to miss out on important concerns that are there for a reason in other libraries. I am searching hard for a great in memory bus, that lets me do true event driven programming (think NSB API), where one can do a send and publish, and send is from 1 to many, handled by only one, and publish is from one and only one, handled by zero to many. The hardest I find in this pursuit is implementing Unit of work around the message handler, and still keeping it dead simple.</p>]]></message>
+		<createdAt>2013-12-09T22:12:40Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>askafif@y7mail.com</email>
+			<name>Afif Mohammed</name>
+			<isAnonymous>false</isAnonymous>
+			<username>afifmohammed</username>
+		</author>
+		<ipAddress>165.228.24.87</ipAddress>
+		<thread dsq:id="1896904284" />
+		<parent dsq:id="1156452242" />
+	</post>
+	<post dsq:id="1156552579">
+		<id />
+		<message><![CDATA[<p>Thanks.</p><p>I started this journey looking at NSB 4.0 "In Memory Publish" and realized I really wanted to do Send, which it didn't have. I didn't realize how far that would take me. :-]</p><p>I started out with nimbus (<a href="http://kijanawoodard.com/introducing-nimbus)" rel="nofollow">http://kijanawoodard.com/intro...</a> so that I could register handlers for messages anywhere, like nsb. What I quickly realized is that you get into cases like "I need the handlers to run in a particular order", "This handler needs two parameters", "This handler needs zero parameters", "This handler uses the result of the work of the first 3 handlers (an Event)".</p><p>Once there, I either needed to retreat to a "full featured" container, although that doesn't solve the ordering issue (see nsb's .First&lt;t&gt;(), etc), or I needed something else.</p><p>What I've found is that the "orchestration code" is fairly concise to write manually and keeps a lot of if/switch logic out of the handler code. Not to mention, I don't have to learn the incantations of the container.</p><p>I still owe you a blog post with more details and code. :-]</p>]]></message>
+		<createdAt>2013-12-09T23:00:52Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>199.47.223.11</ipAddress>
+		<thread dsq:id="1896904284" />
+		<parent dsq:id="1156501640" />
+	</post>
+	<post dsq:id="1156556814">
+		<id />
+		<message><![CDATA[<p>Also, it's interesting that you wrote this, because I was thinking of adding a "publish" feature, which really amounts to allowing multiple subscriptions for a message.</p><p>I've tried not to impose concepts like Command vs Event and I think I can continue to do that, but allow "send to many".</p><p>I haven't decided whether it should just be Send -&gt; "send to whatever is registered" or if I should do something like Send -&gt; "send to subscriptions[0]" and Publish -&gt; "send to all subscriptions".</p><p>I'll write the code and let it decide. :-]</p>]]></message>
+		<createdAt>2013-12-09T23:05:12Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>199.47.223.11</ipAddress>
+		<thread dsq:id="1896904284" />
+		<parent dsq:id="1156501640" />
+	</post>
+	<post dsq:id="1156562214">
+		<id />
+		<message><![CDATA[<p>To be honest, at my last assignment, I did create an in memory pub sub mechanism to let the team get their head around event driven architecture without all the queues and distribution. We used that to move from procedural style to events and commands, and that paved the way for NSB to come in later. I am itching to write that again, but want to look around so I can borrow 'good' ideas, or even better just use something that fits the bill.</p>]]></message>
+		<createdAt>2013-12-09T23:10:47Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>askafif@y7mail.com</email>
+			<name>Afif Mohammed</name>
+			<isAnonymous>false</isAnonymous>
+			<username>afifmohammed</username>
+		</author>
+		<ipAddress>165.228.24.87</ipAddress>
+		<thread dsq:id="1896904284" />
+		<parent dsq:id="1156556814" />
+	</post>
+	<post dsq:id="1156570532">
+		<id />
+		<message><![CDATA[<p>I'm sorta pushing "roll your own" with this code since it's single file inclusion only.</p><p>I have used it in enough mini projects that I'm considering putting it on nuget just for my own sake. But I want to let the api settle a bit. I still think it's a bit bloated, if you can believe that.</p><p>The key to "in memory publish" in a web request is transactions. If we're honest, we really only get one. Beyond that you're pushing your luck or opening up a can of worms. If the request fatals, where are you? Can you restart? From which point?</p><p>So a real "publish" where "this is an Event that happened in the past" (meaning saved to disk somewhere for all time), isn't friendly in memory.</p><p>I _think_ I'd like to add a way for disconnected code to register "background tasks" within the same unit of work as the main request handler code. The background tasks would then carry out follow on options like "send an email", "update the stats screen", etc. I'm not sure that this use case is worth the mental disconnect of not being able to trivially see what's going to be saved when the commit occurs.</p>]]></message>
+		<createdAt>2013-12-09T23:19:27Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>199.47.223.11</ipAddress>
+		<thread dsq:id="1896904284" />
+		<parent dsq:id="1156562214" />
+	</post>
+	<post dsq:id="1156571165">
+		<id />
+		<message><![CDATA[<p>Also, the moment you have something that lets you do messaging, I feel its imperative to demonstrate the difference between command and event. Without that it feels messages are flying everywhere for no rhyme or reason. Hiding in the sheep's clothing of decoupling behind messages developers will write code that has all interesting side effects.</p>]]></message>
+		<createdAt>2013-12-09T23:20:07Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>askafif@y7mail.com</email>
+			<name>Afif Mohammed</name>
+			<isAnonymous>false</isAnonymous>
+			<username>afifmohammed</username>
+		</author>
+		<ipAddress>165.228.24.87</ipAddress>
+		<thread dsq:id="1896904284" />
+		<parent dsq:id="1156556814" />
+	</post>
+	<post dsq:id="1156573095">
+		<id />
+		<message><![CDATA[<p>That looks familiar to what Oren has done with Racoon blog. Interesting thoughts.</p>]]></message>
+		<createdAt>2013-12-09T23:22:09Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>askafif@y7mail.com</email>
+			<name>Afif Mohammed</name>
+			<isAnonymous>false</isAnonymous>
+			<username>afifmohammed</username>
+		</author>
+		<ipAddress>120.150.77.38</ipAddress>
+		<thread dsq:id="1896904284" />
+		<parent dsq:id="1156570532" />
+	</post>
+	<post dsq:id="1156581180">
+		<id />
+		<message><![CDATA[<p>That's where I stole the idea.</p><p>Oren's Limit your Abstractions series is pivotal to my line of thinking on this. If I can drop IFoo, IGoo, IThisService, and IThatService and boil things down to IMediator (or whatever), clarity is what emerges.</p><p>I find the constraint similar to ReST constraints. At first you find it hampers you. But soon, you see that what you were doing before was "making stuff up" and not focusing on the essence of what needed to be done. At the end, your code becomes a tightly coupled mess of Interfaces that were suppose to solve the coupling problem but didn't because you just wrote the same old procedural spaghetti code hidden behind an interface.</p>]]></message>
+		<createdAt>2013-12-09T23:30:46Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>199.47.223.11</ipAddress>
+		<thread dsq:id="1896904284" />
+		<parent dsq:id="1156573095" />
+	</post>
+	<post dsq:id="1156594634">
+		<id />
+		<message><![CDATA[<p>Couldn't agree more.</p>]]></message>
+		<createdAt>2013-12-09T23:38:58Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>askafif@y7mail.com</email>
+			<name>Afif Mohammed</name>
+			<isAnonymous>false</isAnonymous>
+			<username>afifmohammed</username>
+		</author>
+		<ipAddress>120.150.77.38</ipAddress>
+		<thread dsq:id="1896904284" />
+		<parent dsq:id="1156581180" />
+	</post>
+	<post dsq:id="1156603430">
+		<id />
+		<message><![CDATA[<p>I know how you feel. Since I'm going for minimalism, I didn't want to impose that view _from_ Liaison. So if you want IEvent and ICommand and IHandle&lt;t&gt;, etc go ahead. Liaison won't _force_ you to do that, but it's easy to overlay. Plus, I didn't want to write "unobtrusive mode". :-]</p>]]></message>
+		<createdAt>2013-12-09T23:48:16Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>199.47.223.11</ipAddress>
+		<thread dsq:id="1896904284" />
+		<parent dsq:id="1156571165" />
+	</post>
+	<post dsq:id="1180838014">
+		<id />
+		<message><![CDATA[<p>Hi Kijana, <br>I wanted to discuss domain objects in the context of an SOA architecture. I noticed your recent opinions on of the NServiceBus forum threads, and thought they are a closely aligned to how I view this space. So if you allow me, can I pick your brains in the matter. <br>Essentially I look at my Sagas as domain objects. This is also what Udi said in his ADD course. Thoughts?</p>]]></message>
+		<createdAt>2013-12-30T03:39:30Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>askafif@y7mail.com</email>
+			<name>Afif Mohammed</name>
+			<isAnonymous>false</isAnonymous>
+			<username>afifmohammed</username>
+		</author>
+		<ipAddress>165.228.24.87</ipAddress>
+		<thread dsq:id="1896009937" />
+	</post>
+	<post dsq:id="1266188412">
+		<id />
+		<message><![CDATA[<p>What about Blub Companies?</p>]]></message>
+		<createdAt>2014-03-01T20:11:08Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>disquss@joeyguerra.com</email>
+			<name>Joey Guerra</name>
+			<isAnonymous>false</isAnonymous>
+			<username>joey_guerra</username>
+		</author>
+		<ipAddress>72.64.67.17</ipAddress>
+		<thread dsq:id="963806592" />
+	</post>
+	<post dsq:id="1438873149">
+		<id />
+		<message><![CDATA[<p>well this looks like the place to rant  enums not only suck they go back in time to the days of<br>ill return whatever i feel like, after fiddling with this <br>i just decided to write my own class its not even worth the time, its broken and backwards</p><p>            // first how can we infer a return type i cant even manually new<br>            // myenum[] ve = myenum[4]{}; // ya ok whatever           <br>            // so get values really gets myenums array with some random spoofed names in it now ?<br>            var ve = (myenum[])Enum.GetValues(typeof(myenum));<br>            for (int i = 0; i &lt; ve.Length; i++)<br>            {<br>                Console.Write(ve[i] + " ");<br>            }<br>            Console.WriteLine("\n so do i hate hate you no thats just what it assumed");<br>            // so now to undo what they did , you have to do it like this cause <br>            // you need a totally separate method to actually get back what you put in<br>            var ne = Enum.GetNames(typeof(myenum));<br>            for (int i = 0; i &lt; ne.Length; i++)<br>            {<br>                Console.Write(ne[i] + " ");<br>            }<br>            // output<br>            //I hate hate you<br>            // no<br>            //I love hate you<br>            // and god forbid you want to generically pass it to a method(enum t, forget it</p>]]></message>
+		<createdAt>2014-06-17T05:17:18Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>willmotil@live.com</email>
+			<name>will</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>172.11.48.182</ipAddress>
+		<thread dsq:id="964851406" />
+	</post>
+	<post dsq:id="1438876162">
+		<id />
+		<message><![CDATA[<p>[Flags]<br>        public enum myenum<br>        {<br>            I = 0,<br>            love = 1,<br>            hate = 1,<br>            you =2<br>        }</p>]]></message>
+		<createdAt>2014-06-17T05:21:20Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>willmotil@live.com</email>
+			<name>will</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>172.11.48.182</ipAddress>
+		<thread dsq:id="964851406" />
+		<parent dsq:id="1438873149" />
+	</post>
+	<post dsq:id="1438881817">
+		<id />
+		<message><![CDATA[<p>oh ya i almost forgot you dont declare it static you cant<br>but you can call it in a static method from outside the method <br>even though you cant pass it to a method<br>how is any of that sensable or clear<br>and this is recommended really</p>]]></message>
+		<createdAt>2014-06-17T05:30:23Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>willmotil@live.com</email>
+			<name>will</name>
+			<isAnonymous>true</isAnonymous>
+		</author>
+		<ipAddress>172.11.48.182</ipAddress>
+		<thread dsq:id="964851406" />
+		<parent dsq:id="1438876162" />
+	</post>
+	<post dsq:id="1439366045">
+		<id />
+		<message><![CDATA[<p>Indeed. F# discriminated unions look to be a better alternative. <a href="http://fsharpforfunandprofit.com/posts/discriminated-unions/" rel="nofollow">http://fsharpforfunandprofit.c...</a></p>]]></message>
+		<createdAt>2014-06-17T14:44:30Z</createdAt>
+		<isDeleted>false</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>disqus@wyldeye.com</email>
+			<name>Kijana Woodard</name>
+			<isAnonymous>false</isAnonymous>
+			<username>kijanawoodard</username>
+		</author>
+		<ipAddress>72.190.75.3</ipAddress>
+		<thread dsq:id="964851406" />
+		<parent dsq:id="1438873149" />
+	</post>
+	<post dsq:id="1473739174">
+		<id />
+		<message><![CDATA[<p>More about c# enum...<a href="http://csharp.net-informations.com/statements/enum.htm" rel="nofollow">C# Enum</a></p><p>Ling</p>]]></message>
+		<createdAt>2014-07-08T06:18:06Z</createdAt>
+		<isDeleted>true</isDeleted>
+		<isSpam>false</isSpam>
+		<author>
+			<email>lingmaaki@gmail.com</email>
+			<name>ling maaki</name>
+			<isAnonymous>false</isAnonymous>
+			<username>lingmaaki</username>
+		</author>
+		<ipAddress>202.164.129.85</ipAddress>
+		<thread dsq:id="964851406" />
+	</post>
+</disqus>
